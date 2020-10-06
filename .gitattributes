@@ -1,1 +1,4 @@
-*.SchDoc diff=allspice
+*.OutJob linguist-detectable
+*.PcbDoc diff=allspice linguist-detectable
+*.PrjPcb linguist-detectable
+*.SchDoc diff=allspice linguist-detectable
